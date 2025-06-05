@@ -1,0 +1,10 @@
+# PostgreSQL data files
+*.backup
+*.dump
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
